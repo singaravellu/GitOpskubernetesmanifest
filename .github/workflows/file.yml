@@ -1,0 +1,6 @@
+name: onemore
+
+on:
+  push:
+    branches:
+      - "feat/newtest"
