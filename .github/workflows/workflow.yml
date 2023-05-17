@@ -1,6 +1,3 @@
 name: Testing
 
-on:
-  push:
-    branches:
-      - "feat/newtest"
+on: [push]
